@@ -1,1 +1,2 @@
 This is a story (remote repository learning)
+This is a great story!
